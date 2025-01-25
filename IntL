@@ -1,0 +1,44 @@
+[
+  {
+    "text": "ایران",
+    "link": "https://s8.uupload.ir/files/iranian_football_badge.svg_aiy8.png",
+    "link server": "https://gitea.com/Hide-person/Team24/raw/branch/main/Iran",
+    "size y": "80",
+    "size x": "50"
+  },
+  {
+    "text": "اسپانیا",
+    "link": "https://s8.uupload.ir/files/spain_2022_logo_kh8z.png",
+    "link server": "https://gitea.com/Hide-person/Team24/raw/branch/main/Spain",
+    "size y": "80",
+    "size x": "50"
+  },
+  {
+    "text": "فرانسه",
+    "link": "https://s8.uupload.ir/files/france_national_football_team_seal.svg_3042.png",
+    "link server": "https://gitea.com/Hide-person/Team24/raw/branch/main/Freanc",
+    "size y": "80",
+    "size x": "50"
+  },
+  {
+    "text": "پرتغال",
+    "link": "https://s8.uupload.ir/files/portuguese_football_federation.svg_qsrx.png",
+    "link server": "https://gitea.com/Hide-person/Team24/raw/branch/main/Portugal",
+    "size y": "80",
+    "size x": "65"
+  },
+  {
+    "text": "آرژانتین",
+    "link": "https://s8.uupload.ir/files/argentina_national_football_team_logo.svg_5rp8.png",
+    "link server": "https://gitea.com/Hide-person/Team24/raw/branch/main/Argentina",
+    "size y": "80",
+    "size x": "60"
+  },
+  {
+    "text": "برزیل",
+    "link": "https://s8.uupload.ir/files/brazilian_football_confederation_logo.svg_rl3j.png",
+    "link server": "https://gitea.com/Hide-person/Team24/raw/branch/main/Brazil",
+    "size y": "80",
+    "size x": "65"
+  }
+]

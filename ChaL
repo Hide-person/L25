@@ -1,0 +1,44 @@
+[
+  {
+    "text": "الهلال",
+    "link": "https://s8.uupload.ir/files/al_hilal_sfc_logo.svg_hqgq.png",
+    "link server": "https://gitea.com/Hide-person/Team24/raw/branch/main/Alhilal",
+    "size y": "80",
+    "size x": "60"
+  },
+  {
+    "text": "النصر",
+    "link": "https://s8.uupload.ir/files/logo_al-nassr_x14w.png",
+    "link server": "https://gitea.com/Hide-person/Team24/raw/branch/main/AlNasser",
+    "size y": "100",
+    "size x": "100"
+  },
+  {
+    "text": "الاهلی",
+    "link": "https://s8.uupload.ir/files/al_ahli_logo_yo3l.png",
+    "link server": "https://gitea.com/Hide-person/Team24/raw/branch/main/AlAhli",
+    "size y": "80",
+    "size x": "65"
+  },
+  {
+    "text": "الاتحاد",
+    "link": "https://s8.uupload.ir/files/lvi580p_zuzl.png",
+    "link server": "https://gitea.com/Hide-person/Team24/raw/branch/main/AlIttihad",
+    "size y": "80",
+    "size x": "65"
+  },
+  {
+    "text": "پرسپولیس",
+    "link": "https://s8.uupload.ir/files/fc_persepolis_official_logo.svg_kzt9.png",
+    "link server": "https://gitea.com/Hide-person/Team24/raw/branch/main/AsiaPersepolis",
+    "size y": "80",
+    "size x": "70"
+  },
+  {
+    "text": "استقلال",
+    "link": "https://s8.uupload.ir/files/esteghlal_tehran_fc_logo.svg_utmc.png",
+    "link server": "https://gitea.com/Hide-person/Team24/raw/branch/main/AsiaEsteglal",
+    "size y": "80",
+    "size x": "60"
+  }
+]

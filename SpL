@@ -1,0 +1,51 @@
+[
+  {
+    "text": "بارسلونا",
+    "link": "https://s8.uupload.ir/files/fcb.svg_kr4z.png",
+    "link server": "https://gitea.com/Hide-person/Team24/raw/branch/main/Barcelona",
+    "size y": "80",
+    "size x": "80"
+  },
+  {
+    "text": "رئال مادرید",
+    "link": "https://s8.uupload.ir/files/real_madrid_cf.svg_jete.png",
+    "link server": "https://gitea.com/Hide-person/Team24/raw/branch/main/RealMadrid",
+    "size y": "80",
+    "size x": "55"
+  },
+  {
+    "text": "اتلتیکومادرید",
+    "link": "https://s8.uupload.ir/files/atletico_madrid_logo_2024.svg_w8t5.png",
+    "link server": "https://gitea.com/Hide-person/Team24/raw/branch/main/AthleticMadrid",
+    "size y": "80",
+    "size x": "65"
+  },
+  {
+    "text": "ویارئال",
+    "link": "https://s8.uupload.ir/files/villarreal_cf_logo.svg_ucxh.png",
+    "link server": "https://gitea.com/Hide-person/Team24/raw/branch/main/VillaReal",
+    "size y": "80",
+    "size x": "65"
+  },
+  {
+    "text": "سویا",
+    "link": "https://s8.uupload.ir/files/sevilla_cf_200px_l1oo.png",
+    "link server": "https://gitea.com/Hide-person/Team24/raw/branch/main/Seville",
+    "size y": "80",
+    "size x": "70"
+  },
+  {
+    "text": "اتلتیک بیلبائو",
+    "link": "https://s8.uupload.ir/files/club_athletic_bilbao_logo.svg_4npa.png",
+    "link server": "https://gitea.com/Hide-person/Team24/raw/branch/main/AthleticBilbao",
+    "size y": "80",
+    "size x": "70"
+  },
+  {
+    "text": "رئال بتیس",
+    "link": "https://s8.uupload.ir/files/real_betis_logo.svg_5jz6.png",
+    "link server": "https://gitea.com/Hide-person/Team24/raw/branch/main/RealBetis",
+    "size y": "70",
+    "size x": "80"
+  }
+]

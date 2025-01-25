@@ -1,0 +1,44 @@
+[
+  {
+    "text": "منچستر سیتی",
+    "link": "https://s8.uupload.ir/files/manchester_city_fc_badge.svg_j0yp.png",
+    "link server": "https://gitea.com/Hide-person/Team24/raw/branch/main/ManchesterCity",
+    "size y": "80",
+    "size x": "80"
+  },
+  {
+    "text": "لیورپول",
+    "link": "https://s8.uupload.ir/files/liverpool-fc-2012-logo_9cfa.png",
+    "link server": "https://gitea.com/Hide-person/Team24/raw/branch/main/Liverpool",
+    "size y": "80",
+    "size x": "35"
+  },
+  {
+    "text": "آرسنال",
+    "link": "https://s8.uupload.ir/files/arsenal-fc-2002-logo_mfve.png",
+    "link server": "https://gitea.com/Hide-person/Team24/raw/branch/main/Arsenal",
+    "size y": "80",
+    "size x": "70"
+  },
+  {
+    "text": "منچستر یونایتد",
+    "link": "https://s8.uupload.ir/files/manchester-united-1998-logo_dwqc.png",
+    "link server": "https://gitea.com/Hide-person/Team24/raw/branch/main/ManchesterUnited",
+    "size y": "80",
+    "size x": "80"
+  },
+  {
+    "text": "چلسی",
+    "link": "https://s8.uupload.ir/files/chelsea-fc-2006-logo_8klp.png",
+    "link server": "https://gitea.com/Hide-person/Team24/raw/branch/main/Chelsea",
+    "size y": "80",
+    "size x": "80"
+  },
+  {
+    "text": "تاتنهام",
+    "link": "https://s8.uupload.ir/files/tottenham-hotspur-2006-logo_xows.png",
+    "link server": "https://gitea.com/Hide-person/Team24/raw/branch/main/Tottenham",
+    "size y": "80",
+    "size x": "35"
+  }
+]
