@@ -2,42 +2,42 @@
   {
     "text": "ایران",
     "link": "https://s8.uupload.ir/files/iranian_football_badge.svg_aiy8.png",
-    "link server": "https://gitea.com/Hide-person/Team24/raw/branch/main/Iran",
+    "link server": "https://raw.githubusercontent.com/Hide-person/D25/refs/heads/main/Iran",
     "size y": "80",
     "size x": "50"
   },
   {
     "text": "اسپانیا",
     "link": "https://s8.uupload.ir/files/spain_2022_logo_kh8z.png",
-    "link server": "https://gitea.com/Hide-person/Team24/raw/branch/main/Spain",
+    "link server": "https://raw.githubusercontent.com/Hide-person/D25/refs/heads/main/Spain",
     "size y": "80",
     "size x": "50"
   },
   {
     "text": "فرانسه",
     "link": "https://s8.uupload.ir/files/france_national_football_team_seal.svg_3042.png",
-    "link server": "https://gitea.com/Hide-person/Team24/raw/branch/main/Freanc",
+    "link server": "https://raw.githubusercontent.com/Hide-person/D25/refs/heads/main/Freanc",
     "size y": "80",
     "size x": "50"
   },
   {
     "text": "پرتغال",
     "link": "https://s8.uupload.ir/files/portuguese_football_federation.svg_qsrx.png",
-    "link server": "https://gitea.com/Hide-person/Team24/raw/branch/main/Portugal",
+    "link server": "https://raw.githubusercontent.com/Hide-person/D25/refs/heads/main/Portugal",
     "size y": "80",
     "size x": "65"
   },
   {
     "text": "آرژانتین",
     "link": "https://s8.uupload.ir/files/argentina_national_football_team_logo.svg_5rp8.png",
-    "link server": "https://gitea.com/Hide-person/Team24/raw/branch/main/Argentina",
+    "link server": "https://raw.githubusercontent.com/Hide-person/D25/refs/heads/main/Argentina",
     "size y": "80",
     "size x": "60"
   },
   {
     "text": "برزیل",
     "link": "https://s8.uupload.ir/files/brazilian_football_confederation_logo.svg_rl3j.png",
-    "link server": "https://gitea.com/Hide-person/Team24/raw/branch/main/Brazil",
+    "link server": "https://raw.githubusercontent.com/Hide-person/D25/refs/heads/main/Brazil",
     "size y": "80",
     "size x": "65"
   }
