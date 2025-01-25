@@ -2,28 +2,28 @@
   {
     "text": "پرسپولیس",
     "link": "https://s8.uupload.ir/files/fc_persepolis_official_logo.svg_kzt9.png",
-    "link server": "https://gitea.com/Hide-person/Team24/raw/branch/main/Persepolis",
+    "link server": "https://raw.githubusercontent.com/Hide-person/D25/refs/heads/main/Persepolis",
     "size y": "80",
     "size x": "70"
   },
   {
     "text": "استقلال",
     "link": "https://s8.uupload.ir/files/esteghlal_tehran_fc_logo.svg_utmc.png",
-    "link server": "https://gitea.com/Hide-person/Team24/raw/branch/main/Esteglal",
+    "link server": "https://raw.githubusercontent.com/Hide-person/D25/refs/heads/main/Esteglal",
     "size y": "80",
     "size x": "60"
   },
   {
     "text": "سپاهان",
     "link": "https://s8.uupload.ir/files/sepahan_new_logo.svg_6vql.png",
-    "link server": "https://gitea.com/Hide-person/Team24/raw/branch/main/Sepahan",
+    "link server": "https://raw.githubusercontent.com/Hide-person/D25/refs/heads/main/Sepahan",
     "size y": "80",
     "size x": "80"
   },
   {
     "text": "تراکتور",
     "link": "https://s8.uupload.ir/files/tractor_logo_iihx.png",
-    "link server": "https://gitea.com/Hide-person/Team24/raw/branch/main/Tractor",
+    "link server": "https://raw.githubusercontent.com/Hide-person/D25/refs/heads/main/Tractor",
     "size y": "80",
     "size x": "80"
   }
